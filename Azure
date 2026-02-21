@@ -1,0 +1,12 @@
+{
+  "clientId": "xxxx-xxxx-xxxx-xxxx",
+  "clientSecret": "xxxx-xxxx-xxxx-xxxx",
+  "subscriptionId": "xxxx-xxxx-xxxx-xxxx",
+  "tenantId": "xxxx-xxxx-xxxx-xxxx",
+  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+  "resourceManagerEndpointUrl": "https://management.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://gallery.azure.com/",
+  "managementEndpointUrl": "https://management.core.windows.net/"
+}
